@@ -56,3 +56,12 @@ footer {
 section {
 	color: #ffffff;
 }
+
+p {
+	font-size: 30px;
+	text-align: center;
+}
+
+footer {
+	color: red;
+}
